@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='http://fonts.googleapis.com/css?family=Montserrat+Subrayada:700,400' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="1.css">
+<script type="text/javascript" src="allthejava.js"></script>
+<link rel="script" type="text/javascript" href="allthejava.js">
+</head>
+
+<body>
+  <div id = 'maintitle'>the shortage problem:</div>
+  <div id = 'bigcontainer'>
+<div id="button">
+<button type="button" >test link</button>
+</div>
+
+  <!-- <div class = '1stcontainer'>
+ -->    <div class = 'container'>
+      <div class = 'title'>article1</div>
+      <div class = 'cushion'>
+      <p class = 'body'>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+      </div>
+    </div>
+  <!-- </div>
+ -->
+<!--     <div class = '1stcontainer'> -->
+    <div class = 'container'>
+      <div class = 'title'>article1</div>
+      <div class = 'cushion'>
+      <p class = 'body'>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+      </div>
+    </div>
+ <!--  </div>
+ -->
+ </div>
+  
+</body>
+
+<!-- <script class="cssdeck" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script> -->
+</html>

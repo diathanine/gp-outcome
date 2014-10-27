@@ -1,0 +1,44 @@
+.container{
+  border: 0.127em dashed white;
+  width: 12em;
+  float: left;
+  margin-left: 1em;
+  position: relative;
+}
+/*.1stcontainer{
+  padding: 1em;
+  margin-right: 1em;
+}*/
+.title{
+  color: white;
+  text-align: center;
+   background-color: rgb(5,0,10);
+   position: absolute;
+
+}
+.sub{
+  color: gray;
+}
+.body{
+  color: white;
+}
+.cushion{
+  margin-left: 1em;
+  margin-right: 1em;
+}
+#maintitle{
+  /*position: absolute;*/
+  font-size: 3em;
+  color: gray;
+  font-family: Montserrat Subrayada;
+  font-weight: bold;
+  margin-left: 5%;
+  
+}
+#bigcontainer{
+  margin-left: 2%;
+  margin-top: 10%;
+}
+body{
+  background-color: rgb(10,10,10);
+}
